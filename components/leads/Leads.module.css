@@ -1,0 +1,38 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+}
+
+.addLeadBtn {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding: 10px 15px;
+  background: navy;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.addLeadBtn:hover {
+  background: darkblue;
+}
+
+.leadTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.leadTable th, .leadTable td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.leadTable th {
+  background-color: #f2f2f2;
+}
