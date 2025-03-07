@@ -9,7 +9,7 @@ A simple Front end using Next.js to show leads and add new leads
    - cd Leads-management-frontend
 
 3. Install dependencies:
-   npm install
+   - npm install
 
 5. Run the server:
-    npm run dev
+   - npm run dev
